@@ -1,5 +1,4 @@
-**VIDEO GUIDE: https://www.youtube.com/watch?v=zCR9kd9db1Y
-**
+VIDEO GUIDE: https://www.youtube.com/watch?v=zCR9kd9db1Y
 HOW TO USE:
 --------------------------------------------------------------
 Please ensure you install all required dependencies before using this program.
